@@ -1,0 +1,20 @@
+#main{
+background:#e1d9d9;
+height:100vh;
+}
+
+.my-button{
+float: right;
+    position: relative;
+    left: 89px;
+    bottom: 37px;
+    width: 87px;
+
+ }
+
+ table>tr>td{
+ padding-left: 8px;
+     padding-top: 6px;
+     padding-bottom: 9px;
+     padding-right: 15px;
+ }
